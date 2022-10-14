@@ -35,87 +35,87 @@ by  [Gabriela de Queiroz](https://twitter.com/gdequeiroz)
 
 ### Desarrollo de aplicaciones con shiny	
 
-* [De los datos a la acción: Shiny como herramienta para la divulgación y el cambio social](https://youtu.be/qMUKYmOnk2E) (Alicia Valentina Franco Boscan; María Monserrat Pérez Villanueva)
+* [De los datos a la acción: Shiny como herramienta para la divulgación y el cambio social](https://youtu.be/qMUKYmOnk2E) (Alicia Valentina Franco Boscan; María Monserrat Pérez Villanueva) - [Acceso al PDF del resumen]()
 
-* [Gestor Logístico para un sistema de bicicletas compartidas:Caso Santiago de Chile](https://youtu.be/7x8d-nDXtaw) (Juan Venegas Gutierrez, Moira Miranda MonteAlegre, Luis Verde Arregoitia)	
+* [Gestor Logístico para un sistema de bicicletas compartidas:Caso Santiago de Chile](https://youtu.be/7x8d-nDXtaw) (Juan Venegas Gutierrez, Moira Miranda MonteAlegre, Luis Verde Arregoitia) - [Acceso al PDF del resumen]()	
 
-* [mapeAr: visualizando información geográfica del turismo.](https://youtu.be/uNuUGroEqmE) (Juan Pablo Ruiz Nicolini; ‪Elián Soutullo‬)
+* [mapeAr: visualizando información geográfica del turismo.](https://youtu.be/uNuUGroEqmE) (Juan Pablo Ruiz Nicolini; ‪Elián Soutullo‬) - [Acceso al PDF del resumen]()
 
 ### Uso de datos públicos y estadísticas oficiales 1
 
-* [d4t4tur: Uso de R para las estadísticas de tuRismo en Argentina](https://youtu.be/wh2mxd-_2_U) (Juan Pablo Ruiz Nicolini; Pablo Tiscornia)
+* [d4t4tur: Uso de R para las estadísticas de tuRismo en Argentina](https://youtu.be/wh2mxd-_2_U) (Juan Pablo Ruiz Nicolini; Pablo Tiscornia) - [Acceso al PDF del resumen]()
 
-* [Repositorio integrado de indicadores de gobiernos locales en Chile](https://youtu.be/AmUQnQbKabQ) (Bastián González-Bustamante; Diego Aguilar)
+* [Repositorio integrado de indicadores de gobiernos locales en Chile](https://youtu.be/AmUQnQbKabQ) (Bastián González-Bustamante; Diego Aguilar) - [Acceso al PDF del resumen]()
 
-* [API de codificación automática para la producción de estadísticas oficiales](https://youtu.be/F8vUIbqGp0o) (Klaus Lehmann, Ignacio Agloni, Ricardo Pizarro)
+* [API de codificación automática para la producción de estadísticas oficiales](https://youtu.be/F8vUIbqGp0o) (Klaus Lehmann, Ignacio Agloni, Ricardo Pizarro) - [Acceso al PDF del resumen]()
 
 ### Aplicaciones en ciencias sociales, artes y humanidades	
 
-* [Aprendizaje automático para el estudio de eventos políticos: Aplicación de modelos semisupervisados en archivos de América Latina](https://youtu.be/SNUWgkgqjuc) (Bastián González-Bustamante)
+* [Aprendizaje automático para el estudio de eventos políticos: Aplicación de modelos semisupervisados en archivos de América Latina](https://youtu.be/SNUWgkgqjuc) (Bastián González-Bustamante) - [Acceso al PDF del resumen]()
 
-* [Uso de R en la exploración de la investigación artística](https://youtu.be/n0q9kUZW370) (Alejandra Tapia, Mauricio Román)
+* [Uso de R en la exploración de la investigación artística](https://youtu.be/n0q9kUZW370) (Alejandra Tapia, Mauricio Román) - [Acceso al PDF del resumen]()
 
 ### Desarrollo de paquetes 1
 
-* [Un pequeño ecosistema de paquetes de R potenciado por fastmatrix](https://youtu.be/Mh_UhBODiXE) (Felipe Osorio)
+* [Un pequeño ecosistema de paquetes de R potenciado por fastmatrix](https://youtu.be/Mh_UhBODiXE) (Felipe Osorio) - [Acceso al PDF del resumen]()
 
-* [La importancia del código fuente y el paquete annotater para añadir contexto sobre librerías adicionales](https://youtu.be/Mqf24pEXvLc) (Luis D. Verde)
+* [La importancia del código fuente y el paquete annotater para añadir contexto sobre librerías adicionales](https://youtu.be/Mqf24pEXvLc) (Luis D. Verde) - [Acceso al PDF del resumen]()
 
-* [plyLoadR, a new htmlwidget for mesh evolution visualization](https://youtu.be/XbCk_-BOnOc) (Lucio Cornejo)
+* [plyLoadR, a new htmlwidget for mesh evolution visualization](https://youtu.be/XbCk_-BOnOc) (Lucio Cornejo) - [Acceso al PDF del resumen]()
 
-* [CRAN Task Views para Guiar a usuaries de paquetes de R](https://youtu.be/A4U0aXPDFps)	
+* [CRAN Task Views para Guiar a usuaries de paquetes de R](https://youtu.be/A4U0aXPDFps) - [Acceso al PDF del resumen]()	
 
-* [Exportá los datos de tus plots con ggdatasaver](https://youtu.be/O5ECb8WFjpw)
+* [Exportá los datos de tus plots con ggdatasaver](https://youtu.be/O5ECb8WFjpw) - [Acceso al PDF del resumen]()
 
 ### Uso de datos públicos y estadísticas oficiales 2
 
-* [Movilidad Google para predecir la Demanda de Combustible con R](https://youtu.be/svARVzk9NAY) Irma Noemí No
+* [Movilidad Google para predecir la Demanda de Combustible con R](https://youtu.be/svARVzk9NAY) Irma Noemí No - [Acceso al PDF del resumen]()
 
-* [Predicción de robos mediante un enfoque espaciotemporal](https://youtu.be/zt1rI13xdXw) (Rafael Zambrano)
+* [Predicción de robos mediante un enfoque espaciotemporal](https://youtu.be/zt1rI13xdXw) (Rafael Zambrano) - [Acceso al PDF del resumen]()
 
-* [srvyuRu: Un paquete para procesar encuestas mediante metaprogramación](https://youtu.be/nw46EQPyLGw) (Mauro Loprete)
+* [srvyuRu: Un paquete para procesar encuestas mediante metaprogramación](https://youtu.be/nw46EQPyLGw) (Mauro Loprete) - [Acceso al PDF del resumen]()
 
-* [Reporte automatizado para el monitoreo de tiempos garantizados de patologías GES para hospitales públicos de Chile](https://youtu.be/c8kStR3Thto) (Paulo Villarroel)
+* [Reporte automatizado para el monitoreo de tiempos garantizados de patologías GES para hospitales públicos de Chile](https://youtu.be/c8kStR3Thto) (Paulo Villarroel) - [Acceso al PDF del resumen]()
 
 ### Desarrollo de aplicaciones con shiny 2
 
-* [Medición territorial de las principales cadenas agropecuarias del departamento Paraná, provincia de Entre Ríos, Argentina](https://youtu.be/PIK609mZPeQ) (Matías Martínez; Julio Spairani)
+* [Medición territorial de las principales cadenas agropecuarias del departamento Paraná, provincia de Entre Ríos, Argentina](https://youtu.be/PIK609mZPeQ) (Matías Martínez; Julio Spairani) - [Acceso al PDF del resumen]()
 
-* [Sistema de consulta de datos e información agrometeorológica y agroclimática para la provincia de La Pampa](https://youtu.be/kqGSdKLKcMc)	
+* [Sistema de consulta de datos e información agrometeorológica y agroclimática para la provincia de La Pampa](https://youtu.be/kqGSdKLKcMc) - [Acceso al PDF del resumen]()	
 	
-* [Desafíos en la creación de shiny apps para la difusión de datos: diagramación, visualización y estabilidad y mantenimiento](https://youtu.be/3poL9xJD8E8) (Martín Opertti; Elina Gómez)
+* [Desafíos en la creación de shiny apps para la difusión de datos: diagramación, visualización y estabilidad y mantenimiento](https://youtu.be/3poL9xJD8E8) (Martín Opertti; Elina Gómez) - [Acceso al PDF del resumen]()
 
 ### desarrollo de paquetes 2	
 
-* [{Sknifedatar} Un paquete para el modelado y visualización de múltiples series de tiempo]()	Rafael Zambrano, Karina Bartolomé
+* [{Sknifedatar} Un paquete para el modelado y visualización de múltiples series de tiempo]()	Rafael Zambrano, Karina Bartolomé - [Acceso al PDF del resumen]()
 
-* [Analizando la estructura de mercado, competencia y comportamiento con R y *concstats*.](https://youtu.be/XrJ6k0wH3jI) 	Andreas Schneider
+* [Analizando la estructura de mercado, competencia y comportamiento con R y *concstats*.](https://youtu.be/XrJ6k0wH3jI) 	Andreas Schneider - [Acceso al PDF del resumen]()
 
-* [GridDER: Detecção e avaliação de dados de grade no R](https://youtu.be/k_Pjh1gLEZw) (Tainá Rocha)
+* [GridDER: Detecção e avaliação de dados de grade no R](https://youtu.be/k_Pjh1gLEZw) (Tainá Rocha) - [Acceso al PDF del resumen]()
 
 ### Aplicaciones y modelos	
 
-* [Estudio de algunos métodos de reservas técnicas en condiciones de incertidumbre para seguros de no vida](https://youtu.be/fu_EOJyaDyY) (Juan Ignacio Baccino; Ramón Álvarez)
+* [Estudio de algunos métodos de reservas técnicas en condiciones de incertidumbre para seguros de no vida](https://youtu.be/fu_EOJyaDyY) (Juan Ignacio Baccino; Ramón Álvarez) - [Acceso al PDF del resumen]()
 
-* [Estudio de algunas propiedades del método de clustering k-modes mediante remuestreo](https://youtu.be/zGQKYUZrXXU) (Ramón Álvarez)
+* [Estudio de algunas propiedades del método de clustering k-modes mediante remuestreo](https://youtu.be/zGQKYUZrXXU) (Ramón Álvarez) - [Acceso al PDF del resumen]()
 
-* [Multiweb: análisis de redes ecológicas](https://youtu.be/7a7Rw1PGALU)	
+* [Multiweb: análisis de redes ecológicas](https://youtu.be/7a7Rw1PGALU) - [Acceso al PDF del resumen]()	 
 
-* [VISUALIZING UNIVARIATE AND MULTIVARIATE IMPACTS OF TuMV INFECTION ON HOST PHYSIOLOGY AND MORPHOLOGY IN ARABIDOPSIS](https://youtu.be/3yg5dQMS3is) (Carlos Manacorda)
+* [VISUALIZING UNIVARIATE AND MULTIVARIATE IMPACTS OF TuMV INFECTION ON HOST PHYSIOLOGY AND MORPHOLOGY IN ARABIDOPSIS](https://youtu.be/3yg5dQMS3is) (Carlos Manacorda) - [Acceso al PDF del resumen]()
 
-* [Paquete gfwr para acceder a datos globales de seguimiento de embarcaciones](https://youtu.be/qu_u3MI1itQ) (Rocío Joo)
+* [Paquete gfwr para acceder a datos globales de seguimiento de embarcaciones](https://youtu.be/qu_u3MI1itQ) (Rocío Joo) - [Acceso al PDF del resumen]()
 
 ### Enseñanza y comunidades	
 
-* [STRANGE-R METHODOLOGIES: Ensinando R de Trás-pra-Frente no serviço público](https://youtu.be/6PILgf_1ZOI) (Carolina Musso)
+* [STRANGE-R METHODOLOGIES: Ensinando R de Trás-pra-Frente no serviço público](https://youtu.be/6PILgf_1ZOI) (Carolina Musso) - [Acceso al PDF del resumen]()
 
-* [Cómo ganarse la vida enseñando R](https://youtu.be/utzo0qm-7k0) (Yani Bellini)
+* [Cómo ganarse la vida enseñando R](https://youtu.be/utzo0qm-7k0) (Yani Bellini) - [Acceso al PDF del resumen]()
 
-* [10 reglas para organizar un Club de Lectura (on-line) exitoso](https://youtu.be/wIwWKflU0Tc)	Alejandra Bellini
+* [10 reglas para organizar un Club de Lectura (on-line) exitoso](https://youtu.be/wIwWKflU0Tc)	Alejandra Bellini - [Acceso al PDF del resumen]()
 
-* [Teaching Community-Engaged Data Science](https://youtu.be/Q_C_zBz39ls) (Laurie Baker)
+* [Teaching Community-Engaged Data Science](https://youtu.be/Q_C_zBz39ls) (Laurie Baker) - [Acceso al PDF del resumen]()
 
-* [Organizing inclusive conferences with the community](https://youtu.be/J4gODxwW9gs) (Rocío Joo, Andrea Sánchez-Tapia, Natalia Morandeira, Marcela Alfaro Córdoba, Juan Pablo Narváez Gómez)
+* [Organizing inclusive conferences with the community](https://youtu.be/J4gODxwW9gs) (Rocío Joo, Andrea Sánchez-Tapia, Natalia Morandeira, Marcela Alfaro Córdoba, Juan Pablo Narváez Gómez) - [Acceso al PDF del resumen]()
 
 ## Tutoriales
 
