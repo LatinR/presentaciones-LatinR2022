@@ -79,39 +79,43 @@ by  [Gabriela de Queiroz](https://twitter.com/gdequeiroz)
 
 ### Desarrollo de aplicaciones con shiny 2
 
-* Medición territorial de las principales cadenas agropecuarias del departamento Paraná, provincia de Entre Ríos, Argentina	Matías Martínez ; Julio Spairani
+* [Medición territorial de las principales cadenas agropecuarias del departamento Paraná, provincia de Entre Ríos, Argentina](https://youtu.be/PIK609mZPeQ) (Matías Martínez; Julio Spairani)
 
-* Sistema de consulta de datos e información agrometeorológica y agroclimática para la provincia de La Pampa	
+* [Sistema de consulta de datos e información agrometeorológica y agroclimática para la provincia de La Pampa](https://youtu.be/kqGSdKLKcMc)	
 	
-* Desafíos en la creación de shiny apps para la difusión de datos: diagramación, visualización y estabilidad y mantenimiento	Martín Opertti; Elina Gómez
+* [Desafíos en la creación de shiny apps para la difusión de datos: diagramación, visualización y estabilidad y mantenimiento](https://youtu.be/3poL9xJD8E8) (Martín Opertti; Elina Gómez)
 
 ### desarrollo de paquetes 2	
 
-* "{Sknifedatar} Un paquete para el modelado y visualización de múltiples series de tiempo"	Rafael Zambrano, Karina Bartolomé
+* [{Sknifedatar} Un paquete para el modelado y visualización de múltiples series de tiempo]()	Rafael Zambrano, Karina Bartolomé
 
-* Analizando la estructura de mercado, competencia y comportamiento con R y *concstats*. 	Andreas Schneider
+* [Analizando la estructura de mercado, competencia y comportamiento con R y *concstats*.](https://youtu.be/XrJ6k0wH3jI) 	Andreas Schneider
 
-* GridDER: Detecção e avaliação de dados de grade no R	Tainá Rocha
+* [GridDER: Detecção e avaliação de dados de grade no R](https://youtu.be/k_Pjh1gLEZw) (Tainá Rocha)
 
 ### Aplicaciones y modelos	
 
-* Estudio de algunos métodos de reservas técnicas en condiciones de incertidumbre para seguros de no vida	Juan Ignacio Baccino-Ramón ALVAREZ
+* [Estudio de algunos métodos de reservas técnicas en condiciones de incertidumbre para seguros de no vida](https://youtu.be/fu_EOJyaDyY) (Juan Ignacio Baccino; Ramón Álvarez)
 
-* Estudio de algunas propiedades del método de clustering k-modes mediante remuestreo	Ramón ALVAREZ
+* [Estudio de algunas propiedades del método de clustering k-modes mediante remuestreo](https://youtu.be/zGQKYUZrXXU) (Ramón Álvarez)
 
-* Multiweb: análisis de redes ecológicas	
+* [Multiweb: análisis de redes ecológicas](https://youtu.be/7a7Rw1PGALU)	
 
-* VISUALIZING UNIVARIATE AND MULTIVARIATE IMPACTS OF TuMV INFECTION ON HOST PHYSIOLOGY AND MORPHOLOGY IN ARABIDOPSIS	Carlos Manacorda
+* [VISUALIZING UNIVARIATE AND MULTIVARIATE IMPACTS OF TuMV INFECTION ON HOST PHYSIOLOGY AND MORPHOLOGY IN ARABIDOPSIS](https://youtu.be/3yg5dQMS3is) (Carlos Manacorda)
 
-* Paquete gfwr para acceder a datos globales de seguimiento de embarcaciones	Rocío Joo
+* [Paquete gfwr para acceder a datos globales de seguimiento de embarcaciones](https://youtu.be/qu_u3MI1itQ) (Rocío Joo)
 
 ### Enseñanza y comunidades	
 
-* STRANGE-R METHODOLOGIES: Ensinando R de Trás-pra-Frente no serviço público	Carolina Musso
-* Cómo ganarse la vida enseñando R	Yani Bellini
-* 10 reglas para organizar un Club de Lectura (on-line) exitoso	Alejandra Bellini
-* Teaching Community-Engaged Data Science	Laurie Baker
-* Organizing inclusive conferences with the community	Rocío Joo, Andrea Sánchez-Tapia, Natalia Morandeira, Marcela Alfaro Córdoba, Juan Pablo Narváez Gómez
+* [STRANGE-R METHODOLOGIES: Ensinando R de Trás-pra-Frente no serviço público](https://youtu.be/6PILgf_1ZOI) (Carolina Musso)
+
+* [Cómo ganarse la vida enseñando R](https://youtu.be/utzo0qm-7k0) (Yani Bellini)
+
+* [10 reglas para organizar un Club de Lectura (on-line) exitoso](https://youtu.be/wIwWKflU0Tc)	Alejandra Bellini
+
+* [Teaching Community-Engaged Data Science](https://youtu.be/Q_C_zBz39ls) (Laurie Baker)
+
+* [Organizing inclusive conferences with the community](https://youtu.be/J4gODxwW9gs) (Rocío Joo, Andrea Sánchez-Tapia, Natalia Morandeira, Marcela Alfaro Córdoba, Juan Pablo Narváez Gómez)
 
 ## Tutoriales
 
