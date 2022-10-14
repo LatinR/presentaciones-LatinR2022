@@ -9,9 +9,31 @@ Acceso a todo el material de tutoriales, presentaciones y papers de la edición 
 
 ## Charlas
 
+### Cómo convertirse en un desarrolladoR en dos pasos
+
+por [Joshua Kunst](https://twitter.com/jbkunstf)
+
+* [Slides - GitHub](https://github.com/jbkunst/latinR-2022-desarrollador-2-pasos)
+* [Video]()
+
+### A tour of the Apache Arrow ecosystem for the R community
+
+by [Danielle Navarro](https://twitter.com/djnavarro)
+
+* [Slides](https://djnavarro.net/slides-arrow-latinr-2022/#/title-slide)
+* [GitHub](https://github.com/djnavarro/slides-arrow-latinr-2022)
+* [Video]()
+
+### 10 years of R-Ladies
+
+by  [Gabriela de Queiroz](https://twitter.com/gdequeiroz)
+
+* [Slides]()
+* [Video]()
+
 ## Contribuciones
 
-### Desarrollo de aplicaciones con shiny 1	
+### Desarrollo de aplicaciones con shiny	
 
 * De los datos a la acción: Shiny como herramienta para la divulgación y el cambio social	Alicia Valentina Franco Boscan; María Monserrat Pérez Villanueva
 
@@ -19,7 +41,7 @@ Acceso a todo el material de tutoriales, presentaciones y papers de la edición 
 
 * mapeAr: visualizando información geográfica del turismo. 	Juan Pablo Ruiz Nicolini; ‪Elián Soutullo‬
 
-## Uso de datos públicos y estadísticas oficiales 1	
+### Uso de datos públicos y estadísticas oficiales 
 
 * d4t4tur: Uso de R para las estadísticas de tuRismo en Argentina	Juan Pablo Ruiz Nicolini; Pablo Tiscornia
 
