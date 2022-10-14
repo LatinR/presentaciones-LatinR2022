@@ -14,7 +14,7 @@ Acceso a todo el material de tutoriales, presentaciones y papers de la edición 
 por [Joshua Kunst](https://twitter.com/jbkunstf)
 
 * [Slides - GitHub](https://github.com/jbkunst/latinR-2022-desarrollador-2-pasos)
-* [Video]()
+* [Video](https://youtu.be/cdMmd7i4N6U?t=14425)
 
 ### A tour of the Apache Arrow ecosystem for the R community
 
@@ -22,7 +22,7 @@ by [Danielle Navarro](https://twitter.com/djnavarro)
 
 * [Slides](https://djnavarro.net/slides-arrow-latinr-2022/#/title-slide)
 * [GitHub](https://github.com/djnavarro/slides-arrow-latinr-2022)
-* [Video]()
+* [Video](https://youtu.be/s1ONP_s8ASg?t=214)
 
 ### 10 years of R-Ladies
 
@@ -35,47 +35,49 @@ by  [Gabriela de Queiroz](https://twitter.com/gdequeiroz)
 
 ### Desarrollo de aplicaciones con shiny	
 
-* De los datos a la acción: Shiny como herramienta para la divulgación y el cambio social	Alicia Valentina Franco Boscan; María Monserrat Pérez Villanueva
+* [De los datos a la acción: Shiny como herramienta para la divulgación y el cambio social](https://youtu.be/qMUKYmOnk2E) (Alicia Valentina Franco Boscan; María Monserrat Pérez Villanueva)
 
-* Gestor Logístico para un sistema de bicicletas compartidas:Caso Santiago de Chile	
+* [Gestor Logístico para un sistema de bicicletas compartidas:Caso Santiago de Chile](https://youtu.be/7x8d-nDXtaw) (Juan Venegas Gutierrez, Moira Miranda MonteAlegre, Luis Verde Arregoitia)	
 
-* mapeAr: visualizando información geográfica del turismo. 	Juan Pablo Ruiz Nicolini; ‪Elián Soutullo‬
+* [mapeAr: visualizando información geográfica del turismo.](https://youtu.be/uNuUGroEqmE) (Juan Pablo Ruiz Nicolini; ‪Elián Soutullo‬)
 
-### Uso de datos públicos y estadísticas oficiales 
+### Uso de datos públicos y estadísticas oficiales 1
 
-* d4t4tur: Uso de R para las estadísticas de tuRismo en Argentina	Juan Pablo Ruiz Nicolini; Pablo Tiscornia
+* [d4t4tur: Uso de R para las estadísticas de tuRismo en Argentina](https://youtu.be/wh2mxd-_2_U) (Juan Pablo Ruiz Nicolini; Pablo Tiscornia)
 
-* Repositorio integrado de indicadores de gobiernos locales en Chile	Bastián González-Bustamante; Diego Aguilar
+* [Repositorio integrado de indicadores de gobiernos locales en Chile](https://youtu.be/AmUQnQbKabQ) (Bastián González-Bustamante; Diego Aguilar)
 
-* API DE CODIFICACIÓN AUTOMÁTICA PARA LA PRODUCCIÓN DE ESTADÍSTICAS OFICIALES"	Klaus Lehmann, Ignacio Agloni
+* [API de codificación automática para la producción de estadísticas oficiales](https://youtu.be/F8vUIbqGp0o) (Klaus Lehmann, Ignacio Agloni, Ricardo Pizarro)
 
 ### Aplicaciones en ciencias sociales, artes y humanidades	
 
-* Aprendizaje automático para el estudio de eventos políticos: Aplicación de modelos semisupervisados en archivos de América Latina (Bastián González-Bustamante)	Bastián González-Bustamante
+* [Aprendizaje automático para el estudio de eventos políticos: Aplicación de modelos semisupervisados en archivos de América Latina](https://youtu.be/SNUWgkgqjuc) (Bastián González-Bustamante)
 
-* Uso de R en la exploración de la investigación artística	Alejandra Tapia, Mauricio Román
+* [Uso de R en la exploración de la investigación artística](https://youtu.be/n0q9kUZW370) (Alejandra Tapia, Mauricio Román)
 
-### Desarrollo de paquetes
+### Desarrollo de paquetes 1
 
-* Un pequeño ecosistema de paquetes de R potenciado por fastmatrix	Felipe Osorio
+* [Un pequeño ecosistema de paquetes de R potenciado por fastmatrix](https://youtu.be/Mh_UhBODiXE) (Felipe Osorio)
 
-* La importancia del código fuente y el paquete annotater para añadir contexto sobre librerías adicionales	Luis Verde 
+* [La importancia del código fuente y el paquete annotater para añadir contexto sobre librerías adicionales](https://youtu.be/Mqf24pEXvLc) (Luis D. Verde)
 
-* plyLoadR, a new htmlwidget for mesh evolution visualization	Lucio Cornejo 
+* [plyLoadR, a new htmlwidget for mesh evolution visualization](https://youtu.be/XbCk_-BOnOc) (Lucio Cornejo)
 
-* CRAN Task Views para Guiar a usuaries de paquetes de R	
+* [CRAN Task Views para Guiar a usuaries de paquetes de R](https://youtu.be/A4U0aXPDFps)	
 
-### Uso de datos públicos y estadísticas oficiales 
+* [Exportá los datos de tus plots con ggdatasaver](https://youtu.be/O5ECb8WFjpw)
 
-* “Movilidad Google para predecir la Demanda de Combustible con R” Irma Noemí No
+### Uso de datos públicos y estadísticas oficiales 2
 
-* Predicción de robos mediante un enfoque espaciotemporal	Rafael Zambrano
+* [Movilidad Google para predecir la Demanda de Combustible con R](https://youtu.be/svARVzk9NAY) Irma Noemí No
 
-* srvyuRu: Un paquete para procesar encuestas mediante metaprogramación	Mauro Loprete
+* [Predicción de robos mediante un enfoque espaciotemporal](https://youtu.be/zt1rI13xdXw) (Rafael Zambrano)
 
-*	Reporte automatizado para el monitoreo de tiempos garantizados de patologías GES para hospitales públicos de Chil	Paulo Villarroel
+* [srvyuRu: Un paquete para procesar encuestas mediante metaprogramación](https://youtu.be/nw46EQPyLGw) (Mauro Loprete)
 
-### Desarrollo de aplicaciones con shiny
+* [Reporte automatizado para el monitoreo de tiempos garantizados de patologías GES para hospitales públicos de Chile](https://youtu.be/c8kStR3Thto) (Paulo Villarroel)
+
+### Desarrollo de aplicaciones con shiny 2
 
 * Medición territorial de las principales cadenas agropecuarias del departamento Paraná, provincia de Entre Ríos, Argentina	Matías Martínez ; Julio Spairani
 
