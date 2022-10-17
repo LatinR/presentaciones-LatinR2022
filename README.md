@@ -45,7 +45,7 @@ by  [Gabriela de Queiroz](https://twitter.com/gdequeiroz)
 
 * [d4t4tur: Uso de R para las estadísticas de tuRismo en Argentina](https://youtu.be/wh2mxd-_2_U) (Juan Pablo Ruiz Nicolini; Pablo Tiscornia) - [Acceso al PDF del resumen]()
 
-* [Repositorio integrado de indicadores de gobiernos locales en Chile](https://youtu.be/AmUQnQbKabQ) (Bastián González-Bustamante; Diego Aguilar) - [Acceso al PDF del resumen]()
+* [Repositorio integrado de indicadores de gobiernos locales en Chile](https://youtu.be/AmUQnQbKabQ) (Bastián González-Bustamante; Diego Aguilar) - [Acceso al PDF del resumen](https://github.com/LatinR/presentaciones-LatinR2022/blob/main/papers/LatinR2022_propuesta_2208.pdf)
 
 * [API de codificación automática para la producción de estadísticas oficiales](https://youtu.be/F8vUIbqGp0o) (Klaus Lehmann, Ignacio Agloni, Ricardo Pizarro) - [Acceso al PDF del resumen]()
 
@@ -79,7 +79,7 @@ by  [Gabriela de Queiroz](https://twitter.com/gdequeiroz)
 
 ### Desarrollo de aplicaciones con shiny 2
 
-* [Medición territorial de las principales cadenas agropecuarias del departamento Paraná, provincia de Entre Ríos, Argentina](https://youtu.be/PIK609mZPeQ) (Matías Martínez; Julio Spairani) - [Acceso al PDF del resumen]()
+* [Medición territorial de las principales cadenas agropecuarias del departamento Paraná, provincia de Entre Ríos, Argentina](https://youtu.be/PIK609mZPeQ) (Matías Martínez; Julio Spairani) - [Acceso al PDF del resumen](https://github.com/LatinR/presentaciones-LatinR2022/blob/main/papers/LatinR2022_propuesta_2556.pdf)
 
 * [Sistema de consulta de datos e información agrometeorológica y agroclimática para la provincia de La Pampa](https://youtu.be/kqGSdKLKcMc) - [Acceso al PDF del resumen]()	
 	
@@ -103,19 +103,19 @@ by  [Gabriela de Queiroz](https://twitter.com/gdequeiroz)
 
 * [VISUALIZING UNIVARIATE AND MULTIVARIATE IMPACTS OF TuMV INFECTION ON HOST PHYSIOLOGY AND MORPHOLOGY IN ARABIDOPSIS](https://youtu.be/3yg5dQMS3is) (Carlos Manacorda) - [Acceso al PDF del resumen]()
 
-* [Paquete gfwr para acceder a datos globales de seguimiento de embarcaciones](https://youtu.be/qu_u3MI1itQ) (Rocío Joo) - [Acceso al PDF del resumen]()
+* [Paquete gfwr para acceder a datos globales de seguimiento de embarcaciones](https://youtu.be/qu_u3MI1itQ) (_Rocío Joo_, Nathan A. Miller and Tyler Clavelle) - [Acceso al PDF del resumen](https://github.com/LatinR/presentaciones-LatinR2022/blob/main/papers/LatinR2022_propuesta_2029.pdf)
 
 ### Enseñanza y comunidades	
 
-* [STRANGE-R METHODOLOGIES: Ensinando R de Trás-pra-Frente no serviço público](https://youtu.be/6PILgf_1ZOI) (Carolina Musso) - [Acceso al PDF del resumen]()
+* [STRANGE-R METHODOLOGIES: Ensinando R de Trás-pra-Frente no serviço público](https://youtu.be/6PILgf_1ZOI) (_Carolina Musso_, Hudson G. V. Fontenele, Paola F. de Oliveira, Taynná V. R. Almeida and Janaína Sallas) - [Acceso al PDF del resumen](https://github.com/LatinR/presentaciones-LatinR2022/blob/main/papers/LatinR2022_propuesta_270.pdf)
 
-* [Cómo ganarse la vida enseñando R](https://youtu.be/utzo0qm-7k0) (Yani Bellini) - [Acceso al PDF del resumen]()
+* [Cómo ganarse la vida enseñando R](https://youtu.be/utzo0qm-7k0) (_Yanina Noemi Bellini Saibene_ and Greg Wilson) - [Acceso al PDF del resumen](https://github.com/LatinR/presentaciones-LatinR2022/blob/main/papers/LatinR2022_propuesta_1979.pdf)
 
-* [10 reglas para organizar un Club de Lectura (on-line) exitoso](https://youtu.be/wIwWKflU0Tc)	Alejandra Bellini - [Acceso al PDF del resumen]()
+* [10 reglas para organizar un Club de Lectura (on-line) exitoso](https://youtu.be/wIwWKflU0Tc)	(_Alejandra Bellini_ and Yanina Noemi Bellini Saibene) - [Acceso al PDF del resumen](https://github.com/LatinR/presentaciones-LatinR2022/blob/main/papers/LatinR2022_propuesta_2983.pdf)
 
-* [Teaching Community-Engaged Data Science](https://youtu.be/Q_C_zBz39ls) (Laurie Baker) - [Acceso al PDF del resumen]()
+* [Teaching Community-Engaged Data Science](https://youtu.be/Q_C_zBz39ls) (_Laurie Baker_) - [Acceso al PDF del resumen](https://github.com/LatinR/presentaciones-LatinR2022/blob/main/papers/LatinR2022_propuesta_7535.pdf)
 
-* [Organizing inclusive conferences with the community](https://youtu.be/J4gODxwW9gs) (Rocío Joo, Andrea Sánchez-Tapia, Natalia Morandeira, Marcela Alfaro Córdoba, Juan Pablo Narváez Gómez) - [Acceso al PDF del resumen]()
+* [Organizing inclusive conferences with the community](https://youtu.be/J4gODxwW9gs) (_Rocio Joo, Andrea Sánchez-Tapia_, Sara Mortara, Yanina Bellini Saibene, Heather Turner, Dorothea Hug Peter, _Natalia Soledad Morandeira_, Matt Bannert, Batool Almazrouq, Elizabeth Hare, Laura Ación, _Juan Pablo Narváez-Gómez_, Marcela Alfaro Córdoba, Federico Marini, Rita Giordano, Silvia Canelón, Anicet Ebou, Adithi Upadhya, Joselyn Chávez and Janani Ravi) - [Acceso al PDF del resumen](https://github.com/LatinR/presentaciones-LatinR2022/blob/main/papers/LatinR2022_propuesta_5946.pdf)
 
 ## Tutoriales
 
