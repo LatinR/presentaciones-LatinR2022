@@ -125,7 +125,7 @@ _[Beatriz Milz](https://twitter.com/BeaMilz)_
 
 O RMarkdown possibilita criar relatórios reprodutíveis usando R. A nova geração do RMarkdown, que também é desenvolvida pela R Studio, se chama Quarto (https://quarto.org/) e surgiu em 2021. Quarto busca avançar para ser uma ferramenta de escrita científica e técnica para conteúdo além de R, funcionando bem também com Python, Julia e ObservableJS. Podemos usar o Quarto em para gerar diferentes tipos de arquivos, como relatórios, sites, apresentações, livros e outros (veja a galeria! https://quarto.org/docs/gallery/ ). Essa palestra pretende mostrar em uma atividade prática como os participantes podem usar o Quarto para criar apresentações, e disponibilizá-las online. 
 
-* [Material]()
+* [Material](https://beatrizmilz.github.io/2022-latinr-quarto-tutorial/index.html#/)
 * [Video](https://youtu.be/UmrB7aRmD2M)
 
 ### Introducción a RMarkdown, creando reportes con R y Python en RStudio.
@@ -158,7 +158,7 @@ _[Alisson Soares](https://twitter.com/alissonmasoares)_
 
 This tutorial will introduce some principles of text analysis using R. A first introductory part will show some examples of text analysis in practice in social research. A second part will deal with some basic text analysis in graphical mode (just mouse clicks, no coding) using R Commander. Although easy, this method has several limitations, so we go to the third and more extensive part, that will deal with text analysis writing code. There are a lot of packages in R for text analysis, some of them using tidy principles (don't worry for now), and some differences to other approaches. We will see differences between bag of words and semantic parsing. Data cleaning (or data wrangling) is also a (great) part in preparing data for analysis, and we will see the typical steps, like removing stopwords, stemming and lemmatization, etc. Data visualization like simple word frequencies, different ways to do different wordclouds, frequency of words and dictionary methods such as concept frequency, some basic sentiment analysis (specially for non-English speakers). Finally, we will enter into some basic machine learning, like topic modeling. 
 
-* [Video]()
+* [Video](https://youtu.be/3xIRQ-3QCEk)
 
 ### Conquistando errores en R
 
@@ -167,7 +167,7 @@ _[Paola Corrales](https://twitter.com/PaobCorrales)_
 Debuggear o depurar los errores de tu código puede ser una tarea frustrante. Tal vez obtuviste un mensaje de error y hay que interpretarlo o tal vez el código devuelve un resultado que no es el esperado. Si bien no existe una herramienta o método mágico para identificar los errores en un código, depurar errores requiere de un proceso sistemático. En este tutorial aprenderás a utilizar funciones y herramientas que te ayudarán a depurar errores, analizando el código y haciendo preguntas necesarias que guien ese análisis. Cómo con cualquier tarea asociada a la programación, la depuración de errores es una habilidad que requiere práctica, por lo que en el tutorial tendrás la posibilidad de seguir los ejemplos, resolver nuevos problemas aplicando las herramientas vistas, discutir en grupo y hacer todas las preguntas que tengas. 
 
 * [Material](https://paocorrales.github.io/errores_tutorial/)
-* [Video](https://youtu.be/k6wEAuae9ME)
+* [Video](https://youtu.be/CAw3-pZhzfk)
 
 ### Creating Shiny Apps with Rhino: the new framework Shiny apps.
 
