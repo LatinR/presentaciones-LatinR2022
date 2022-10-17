@@ -150,7 +150,7 @@ _[Luis Verde](https://twitter.com/LuisDVerde)_
 Hoy en día tenemos diversas opciones para ver, editar, y ejecutar nuestro código de R. Gracias a los entornos de programación (IDEs por sus siglas en inglés), es posible ir mucho más allá de archivos de texto. Los IDEs reconocen la sintaxis del lenguaje y nos brindan herramientas para interactuar eficientemente con todos los elementos involucrados en un flujo de trabajo. Para trabajar en R, uno de los IDEs más utilizados es RStudio. Este tutorial tiene como objetivo dar a conocer herramientas y atajos para editar, modificar y ejecutar código en RStudio de manera eficiente y cuyo resultado final sea más legible, organizado, y fácil de usar. Para aumentar la productividad, se verán atajos de teclado (por ejemplo, para insertar operadores comunes o navegar entre pestañas) y herramientas de edición, evitando así cortar/pegar y el uso excesivo del ratón o panel táctil. Además, el tutorial cubre ‘addins’ externos para estilizar y estructurar código, o agregar anotaciones sobre los paquetes que se están usando. Finalmente, se abordará la personalización del entorno, incluyendo la apariencia del texto, colores, y la organización de paneles y ventanas. 
 
 * [Material]()
-* [Video]()
+* [Video](https://youtu.be/HH2V_B7aFeg)
 
 ### Introduction to Text Analysis with R.
 
