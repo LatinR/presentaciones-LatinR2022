@@ -81,7 +81,7 @@ by  [Gabriela de Queiroz](https://twitter.com/gdequeiroz)
 
 * [Medición territorial de las principales cadenas agropecuarias del departamento Paraná, provincia de Entre Ríos, Argentina](https://youtu.be/PIK609mZPeQ) (Matías Martínez; Julio Spairani) - [Acceso al PDF del resumen](https://github.com/LatinR/presentaciones-LatinR2022/blob/main/papers/LatinR2022_propuesta_2556.pdf)
 
-* [Sistema de consulta de datos e información agrometeorológica y agroclimática para la provincia de La Pampa](https://youtu.be/kqGSdKLKcMc) - [Acceso al PDF del resumen]()	
+* [Sistema de consulta de datos e información agrometeorológica y agroclimática para la provincia de La Pampa](https://youtu.be/kqGSdKLKcMc) - [Acceso al PDF del resumen](https://github.com/LatinR/presentaciones-LatinR2022/blob/main/papers/LatinR2022_propuesta_8859.pdf)	
 	
 * [Desafíos en la creación de shiny apps para la difusión de datos: diagramación, visualización y estabilidad y mantenimiento](https://youtu.be/3poL9xJD8E8) (Martín Opertti; Elina Gómez) - [Acceso al PDF del resumen]()
 
