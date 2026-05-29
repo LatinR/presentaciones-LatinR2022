@@ -1,0 +1,40 @@
+# Equipo LatinR 2022 {.unnumbered}
+
+Información completa del equipo disponible en: <https://2022.latinr.org/equipo/>
+
+## Comité Organizador
+
+| Nombre | País |
+|--------|------|
+| Yanina Bellini Saibene | Argentina |
+| Riva Quiroga | Chile |
+| Florencia D'Andrea | Argentina |
+| Joselyn Chávez | México |
+| Virginia García Alonso | Uruguay |
+| Jesica Formoso | Argentina |
+| Pao Corrales | Argentina |
+| Zulemma Bazurto Blacio | Ecuador |
+
+## Comité Científico
+
+| Nombre | País |
+|--------|------|
+| Marcela Alfaro Córdoba | Costa Rica |
+| Natalia da Silva | Uruguay |
+| Mauricio 'Pachá' Vargas | Brasil |
+| Laura Acion | Argentina |
+| Elio Campitelli | Argentina |
+| Ignacio Alvarez Castro | Chile |
+| María Nanton | Argentina |
+| Andrea Sánchez-Tapia | Brasil / Colombia |
+| Beatriz Milz | Brasil |
+| Macarena Valenzuela | Chile |
+| Miguel Alvarez | México |
+| Nicolás Stier | Argentina |
+| Sébastien Rochette | Francia |
+| Vilma Romero | Colombia |
+
+::: {.callout-note}
+Para la lista completa y actualizada del equipo, incluyendo revisores/as y voluntarios/as, 
+consultá <https://2022.latinr.org/equipo/>
+:::

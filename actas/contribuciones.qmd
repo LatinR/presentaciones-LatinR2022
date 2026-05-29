@@ -1,0 +1,315 @@
+# Contribuciones {.unnumbered}
+
+A continuación se presentan los trabajos aceptados en LatinR 2022, organizados por número de propuesta.
+
+---
+
+## 270 — STRANGE-R METHODOLOGIES: Ensinando R de trás-pra-frente
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_270.pdf}
+```
+
+---
+
+## 360 — srvyuRu: Un paquete para procesar encuestas mediante metaprogramación
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_360.pdf}
+```
+
+---
+
+## 1979 — Cómo ganarse la vida enseñando R
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_1979.pdf}
+```
+
+---
+
+## 2029 — Paquete gfwr para acceder a datos globales de seguimiento de embarcaciones
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_2029.pdf}
+```
+
+---
+
+## 2208 — Repositorio integrado de indicadores de gobiernos locales en Chile
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_2208.pdf}
+```
+
+---
+
+## 2406 — Shiny en producción: Monitor Educativo
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_2406.pdf}
+```
+
+---
+
+## 2556 — Medición territorial de las principales cadenas agropecuarias del departamento Paraná
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_2556.pdf}
+```
+
+---
+
+## 2983 — 10 reglas para organizar un Club de Lectura (on-line) exitoso
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_2983.pdf}
+```
+
+---
+
+## 3239 — mapeAr: aplicación interactiva para visualizar información geográfica del turismo
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_3239.pdf}
+```
+
+---
+
+## 3267 — Gestor Logístico para un sistema de bicicletas compartidas: Caso Santiago de Chile
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_3267.pdf}
+```
+
+---
+
+## 3559 — Reporte automatizado para el monitoreo de tiempos garantizados de patologías GES
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_3559.pdf}
+```
+
+---
+
+## 3653 — Visualizing univariate and multivariate impacts of TuMV infection in Arabidopsis
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_3653.pdf}
+```
+
+---
+
+## 4232 — TuRismo en Argentina
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_4232.pdf}
+```
+
+---
+
+## 4692 — {sknifedatar}: Un paquete para el modelado y visualización de múltiples series de tiempo
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_4692.pdf}
+```
+
+---
+
+## 4695 — CRAN Task Views para Guiar a usuaries de paquetes de R
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_4695.pdf}
+```
+
+---
+
+## 4774 — Aprendizaje automático para el estudio de eventos políticos
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_4774.pdf}
+```
+
+---
+
+## 4950 — Los colores del Abya Yala
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_4950.pdf}
+```
+
+---
+
+## 5413 — Un pequeño ecosistema de paquetes de R potenciado por fastmatrix
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_5413.pdf}
+```
+
+---
+
+## 5946 — Organizing inclusive conferences with the community
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_5946.pdf}
+```
+
+---
+
+## 6033 — Modelo de predicción para la vida útil restante de una batería
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_6033.pdf}
+```
+
+---
+
+## 6041 — Como desenvolver uma meta-análise no R
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_6041.pdf}
+```
+
+---
+
+## 6171 — Estudio de algunas propiedades del método de clustering k-modes
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_6171.pdf}
+```
+
+---
+
+## 6299 — *concstats*: Analizando la estructura de mercado, competencia y comportamiento
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_6299.pdf}
+```
+
+---
+
+## 6479 — De los datos a la acción: Shiny como herramienta para la divulgación
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_6479.pdf}
+```
+
+---
+
+## 6818 — Exportá los datos de tus plots con ggdatasaver
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_6818.pdf}
+```
+
+---
+
+## 7451 — Tableros interactivos de indicadores sociales, políticos y económicos
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_7451.pdf}
+```
+
+---
+
+## 7522 — plyLoadR, a new htmlwidget for mesh evolution visualization
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_7522.pdf}
+```
+
+---
+
+## 7535 — Teaching Community-Engaged Data Science
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_7535.pdf}
+```
+
+---
+
+## 8101 — Multiweb: análisis de redes ecológicas
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_8101.pdf}
+```
+
+---
+
+## 8172 — PIVOT TABLES IN R FOR FINANCIAL ANALYSIS
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_8172.pdf}
+```
+
+---
+
+## 8241 — GridDER: Grid Detection and Evaluation in R
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_8241.pdf}
+```
+
+---
+
+## 8672 — Using the package vegtable for documenting syntaxonomic classifications
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_8672.pdf}
+```
+
+---
+
+## 8859 — Sistema de consulta de datos agrometeorológicos para La Pampa
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_8859.pdf}
+```
+
+---
+
+## 8914 — La importancia del código fuente y el paquete annotater
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_8914.pdf}
+```
+
+---
+
+## 9193 — Movilidad Google para predecir la Demanda de Combustible con R
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_9193.pdf}
+```
+
+---
+
+## 9219 — Estudio de algunos métodos de reservas técnicas en seguros de no vida
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_9219.pdf}
+```
+
+---
+
+## 9322 — API DE CODIFICACIÓN AUTOMÁTICA PARA LA PRODUCCIÓN DE ESTADÍSTICAS OFICIALES
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_9322.pdf}
+```
+
+---
+
+## 9606 — Uso de R en la exploración de la investigación artística
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_9606.pdf}
+```
+
+---
+
+## 9710 — Predicción de delitos mediante un enfoque espaciotemporal
+
+```{=latex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}},scale=0.95]{papers/LatinR2022_propuesta_9710.pdf}
+```

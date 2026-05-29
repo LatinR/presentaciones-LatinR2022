@@ -1,0 +1,32 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Libro de Actas LatinR 2022"
+  subtitle: "V Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo"
+  date: "2022-10-12"
+  author: "Comité Organizador LatinR 2022"
+  language: es
+  chapters:
+    - index.qmd
+    - equipo.qmd
+    - contribuciones.qmd
+
+bibliography: []
+
+format:
+  pdf:
+    documentclass: scrbook
+    classoption: [oneside]
+    papersize: a4
+    fontsize: 11pt
+    colorlinks: true
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    include-in-header:
+      text: |
+        \usepackage{pdfpages}
+        \usepackage{booktabs}
+        \usepackage{hyperref}
