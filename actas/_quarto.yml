@@ -25,8 +25,3 @@ format:
     toc: true
     toc-depth: 2
     number-sections: false
-    include-in-header:
-      text: |
-        \usepackage{pdfpages}
-        \usepackage{booktabs}
-        \usepackage{hyperref}

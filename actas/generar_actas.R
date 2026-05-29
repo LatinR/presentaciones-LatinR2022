@@ -1,44 +1,70 @@
 # ==============================================================================
 # Script para generar el Libro de Actas LatinR 2022
-# Usa Quarto para compilar un PDF con introducción, equipo y contribuciones
+# Estrategia:
+#   1. Quarto renderiza las páginas del libro (intro, equipo, índice) como PDF
+#   2. pdftools combina ese PDF con los papers individuales
 # ==============================================================================
 
-# Paquetes necesarios
-if (!requireNamespace("quarto", quietly = TRUE)) install.packages("quarto")
-if (!requireNamespace("fs", quietly = TRUE)) install.packages("fs")
-if (!requireNamespace("pdftools", quietly = TRUE)) install.packages("pdftools")
-if (!requireNamespace("glue", quietly = TRUE)) install.packages("glue")
+# --- Instalar paquetes si hacen falta ---
+pkgs <- c("quarto", "fs", "pdftools", "glue", "here")
+nuevos <- pkgs[!sapply(pkgs, requireNamespace, quietly = TRUE)]
+if (length(nuevos) > 0) install.packages(nuevos)
 
 library(quarto)
 library(fs)
+library(pdftools)
 library(glue)
+library(here)
 
 # ------------------------------------------------------------------------------
-# 1. Verificar que los PDFs de los papers estén disponibles
+# 1. Paths
 # ------------------------------------------------------------------------------
 
-papers_dir <- here::here("papers")
-pdf_files <- fs::dir_ls(papers_dir, glob = "*.pdf")
+raiz      <- here::here()
+papers_dir <- fs::path(raiz, "papers")
+actas_dir  <- fs::path(raiz, "actas")
+book_dir   <- fs::path(actas_dir, "_book")
 
-cat(glue("Se encontraron {length(pdf_files)} papers en {papers_dir}\n"))
-
-# ------------------------------------------------------------------------------
-# 2. Copiar los PDFs a la carpeta de actas para que Quarto los encuentre
-# ------------------------------------------------------------------------------
-
-actas_dir <- here::here("actas")
-papers_dest <- fs::path(actas_dir, "papers")
-fs::dir_create(papers_dest)
-
-fs::file_copy(pdf_files, fs::path(papers_dest, fs::path_file(pdf_files)), overwrite = TRUE)
-cat(glue("PDFs copiados a {papers_dest}\n"))
+# PDF final de salida
+output_pdf <- fs::path(raiz, "actas_LatinR2022.pdf")
 
 # ------------------------------------------------------------------------------
-# 3. Renderizar el libro con Quarto
+# 2. Renderizar el libro Quarto (portada + intro + equipo + índice)
 # ------------------------------------------------------------------------------
 
-# El archivo _quarto.yml y los .qmd deben estar en actas/
+cat("Renderizando libro Quarto...\n")
 quarto::quarto_render(input = actas_dir)
 
-cat("\n✅ Libro de actas generado exitosamente.\n")
-cat(glue("   Buscá el PDF en: {fs::path(actas_dir, '_book')}\n"))
+# Buscar el PDF generado por Quarto
+quarto_pdf <- fs::dir_ls(book_dir, glob = "*.pdf")
+
+if (length(quarto_pdf) == 0) {
+  stop("No se encontró el PDF generado por Quarto en ", book_dir)
+}
+quarto_pdf <- quarto_pdf[1]
+cat(glue("PDF del libro generado: {quarto_pdf}\n"))
+
+# ------------------------------------------------------------------------------
+# 3. Listar los PDFs de papers en orden numérico
+# ------------------------------------------------------------------------------
+
+pdf_papers <- fs::dir_ls(papers_dir, glob = "*.pdf")
+
+# Ordenar por número de propuesta (extraído del nombre de archivo)
+numeros <- as.integer(gsub(".*propuesta_(\\d+)\\.pdf", "\\1", fs::path_file(pdf_papers)))
+ordenes <- order(numeros)
+pdf_papers_ordenados <- pdf_papers[ordenes]
+
+cat(glue("Se incluirán {length(pdf_papers_ordenados)} papers\n"))
+
+# ------------------------------------------------------------------------------
+# 4. Combinar todos los PDFs en uno solo
+# ------------------------------------------------------------------------------
+
+todos_los_pdfs <- c(as.character(quarto_pdf), as.character(pdf_papers_ordenados))
+
+cat("Combinando PDFs...\n")
+pdftools::pdf_combine(input = todos_los_pdfs, output = as.character(output_pdf))
+
+cat(glue("\n✅ Libro de actas generado exitosamente:\n   {output_pdf}\n"))
+cat(glue("   Páginas totales: {pdftools::pdf_length(as.character(output_pdf))}\n"))
