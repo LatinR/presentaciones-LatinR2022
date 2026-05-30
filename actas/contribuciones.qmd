@@ -1,8 +1,8 @@
 # Contribuciones {.unnumbered}
 
-A continuación se presentan los trabajos aceptados en LatinR 2022.
-Los PDFs completos de cada contribución se incluyen a partir de la página siguiente,
-en el orden indicado.
+A continuación se presentan los trabajos aceptados en LatinR 2022 luego de la revisión del comité científico.
+Los resúmenes completos de cada contribución se incluyen a partir de la página siguiente,
+en el orden indicado en la tabla. 
 
 | N° | Título |
 |----|--------|

@@ -1,40 +1,55 @@
 # Equipo LatinR 2022 {.unnumbered}
 
-Información completa del equipo disponible en: <https://2022.latinr.org/equipo/>
+## Chairs LatinR
+
+| Natalia da Silva | Uruguay |
+| Riva Quiroga | Chile |
+| Yanina Bellini Saibene | Argentina |
+
 
 ## Comité Organizador
 
 | Nombre | País |
 |--------|------|
-| Yanina Bellini Saibene | Argentina |
-| Riva Quiroga | Chile |
-| Florencia D'Andrea | Argentina |
+| Patricia Loto | Argentina |
+| Andrea Gómez Vargas | Argentina |
 | Joselyn Chávez | México |
-| Virginia García Alonso | Uruguay |
-| Jesica Formoso | Argentina |
-| Pao Corrales | Argentina |
-| Zulemma Bazurto Blacio | Ecuador |
+| Beatriz Milz| Brasil |
+| Macarena Quiroga | Argentina |
+| Monica Alonso | Argentina |
+| Luis D. Verde Arregoitia | México |
+| Pamela Pairo | Uruguay |
+| Felipe Osorio | Chile |
 
 ## Comité Científico
 
-| Nombre | País |
+| Nombre | Institución |
 |--------|------|
-| Marcela Alfaro Córdoba | Costa Rica |
-| Natalia da Silva | Uruguay |
-| Mauricio 'Pachá' Vargas | Brasil |
-| Laura Acion | Argentina |
-| Elio Campitelli | Argentina |
-| Ignacio Alvarez Castro | Chile |
-| María Nanton | Argentina |
-| Andrea Sánchez-Tapia | Brasil / Colombia |
-| Beatriz Milz | Brasil |
-| Macarena Valenzuela | Chile |
-| Miguel Alvarez | México |
-| Nicolás Stier | Argentina |
-| Sébastien Rochette | Francia |
-| Vilma Romero | Colombia |
+|Alejandra Tapia |	Pontificia Universidad Católica de Chile|
+|Alejandro Espinosa-Rada	| ETH Zürich |
+|Dra. Jennifer Isasi	| Pennsylvania State University |
+|Felipe Osorio |	Universidad Técnica Federico Santa María, Chile |
+|Francisca Ortiz Ruiz |	Millennium Institute for Care Research (MICARE), Santiago, Chile |
+|Francisco Urdinez |	Pontificia Universidad Católica de Chile |
+|Germán Rosati |	CONICET/ EIDAES-UNSAM |
+|Ileana Frasier |	Instituto de Suelos CIRN-CNIA; CONICET |
+|Inés Varas |	Pontificia Universidad Católica de Chile |
+|Juan José Goyeneche	| Instituto de Estadística - Facultad de Ciencias Económicas y de Administración - Uruguay |
+|Lucía Inés Rodríguez Planes|	Dirección Regional Patagonia Austral, Administración de Parques Nacionales |
+|Luis D. Verde Arregoitia |	Instituto de Ecología AC (INECOL), México |
+|Marcela Alfaro Córdoba |	University of California, Santa Cruz |
+|María José García Zattera | Pontificia Universidad Católica de Chile |
+|Marina Cecilia Cock |	CONICET - Universidad Nacional de La Pampa |
+|Naim Bro	| Universidad Adolfo Ibáñez|
+|Natalia Morandeira |	Instituto de Investigación e Ingeniería Ambiental - Consejo Nacional de Investigaciones Científicas y Técnica - Universidad Nacional de San Martín |
+|Pamela E. Pairo |	AFIP- SDG SIT |
+|Ricardo Alonso Olea Ortega	| Pontificia Universidad Católica de Chile |
+|Sara Acevedo	| Pontificia Universidad Católica de Chile |
+|Vianey Leos Barajas |	University of Toronto |
+|Virginia García Alonso	| R Ladies Buenos Aires/IBBEA, CONICET-UBA |
+|Zulemma Bazurto Blacio	| Universidad de Guayaquil |
+|Adriana Gili	| Universidad Nacional de La Pampa, Argentina |
+|Ignacio Álvarez-Castro	| Instituto de Estadística (IESTA), UDELAR|
+|Juan Cruz Rodríguez | Argentina |	
 
-::: {.callout-note}
-Para la lista completa y actualizada del equipo, incluyendo revisores/as y voluntarios/as, 
-consultá <https://2022.latinr.org/equipo/>
-:::
+

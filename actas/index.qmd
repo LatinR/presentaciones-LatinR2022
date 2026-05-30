@@ -22,6 +22,24 @@ de autoría latinoamericana e internacional sobre temas como:
 - Enseñanza y comunidades
 - Modelos y aplicaciones estadísticas
 
+## Otros materiales de la conferencia
+
+El sitio web oficial de esta edición de la conferencia se encuentra en https://2022.latinr.org y en el [canal de Youtube](https://www.youtube.com/@LatinR/search?query=LatinR%202022) se encuentran todos los videos de las presentaciones de las contribuciones en estas actas, junto a los videos de los tutoriales y las disertaciones principales. 
+
+
+## Cita sugerida
+
+Bellini Saibene, Y., Quiroga, R. y Da Silva, N. (Eds.) (2022). *Libro de Actas LatinR 2022 — 
+V Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo*. 
+ISNN 2618-3196. Conferencia virtual, octubre 2022. 
+<https://github.com/LatinR/presentaciones-LatinR2022>
+
+
+## Licencia
+
+Los trabajos incluidos en estas actas son propiedad intelectual de sus respectivos autores y 
+autoras. El material se reproduce con fines de archivo y difusión científica.
+
 ## Datos de la publicación
 
 | | |
@@ -31,15 +49,4 @@ de autoría latinoamericana e internacional sobre temas como:
 | **Publicación** | Octubre 2022 |
 | **Formato** | Libro digital (PDF) |
 | **Repositorio** | <https://github.com/LatinR/presentaciones-LatinR2022> |
-
-## Cita sugerida
-
-Bellini Saibene, Y., Quiroga, R. y Da Silva, N. (Eds.) (2022). *Libro de Actas LatinR 2022 — 
-V Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo*. 
-ISNN 2618-3196. Conferencia virtual, octubre 2022. 
-<https://github.com/LatinR/presentaciones-LatinR2022>
-
-## Licencia
-
-Los trabajos incluidos en estas actas son propiedad intelectual de sus respectivos autores y 
-autoras. El material se reproduce con fines de archivo y difusión científica.
+| **DOI**  | [10.XXXX/XXXXXXX](https://doi.org/10.XXXX/XXXXXXX) |
