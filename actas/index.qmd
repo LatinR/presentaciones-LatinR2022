@@ -22,11 +22,22 @@ de autoría latinoamericana e internacional sobre temas como:
 - Enseñanza y comunidades
 - Modelos y aplicaciones estadísticas
 
+## Datos de la publicación
+
+| | |
+|---|---|
+| **ISSN** | 2618-3196 |
+| **Editoras** | Yanina Bellini Saibene, Riva Quiroga, Natalia Da Silva |
+| **Publicación** | Octubre 2022 |
+| **Formato** | Libro digital (PDF) |
+| **Repositorio** | <https://github.com/LatinR/presentaciones-LatinR2022> |
+
 ## Cita sugerida
 
-Comité Organizador LatinR (2022). *Libro de Actas LatinR 2022 — V Conferencia Latinoamericana 
-sobre Uso de R en Investigación + Desarrollo*. Conferencia virtual, octubre 2022. 
-Disponible en: <https://github.com/LatinR/presentaciones-LatinR2022>
+Bellini Saibene, Y., Quiroga, R. y Da Silva, N. (Eds.) (2022). *Libro de Actas LatinR 2022 — 
+V Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo*. 
+ISNN 2618-3196. Conferencia virtual, octubre 2022. 
+<https://github.com/LatinR/presentaciones-LatinR2022>
 
 ## Licencia
 

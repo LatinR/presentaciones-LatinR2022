@@ -6,8 +6,15 @@ book:
   title: "Libro de Actas LatinR 2022"
   subtitle: "V Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo"
   date: "2022-10-12"
-  author: "Comité Organizador LatinR 2022"
+  author:
+    - name: Yanina Bellini Saibene
+      roles: [editor]
+    - name: Riva Quiroga
+      roles: [editor]
+    - name: Natalia Da Silva
+      roles: [editor]
   language: es
+  issn: "2618-3196"
   chapters:
     - index.qmd
     - equipo.qmd
