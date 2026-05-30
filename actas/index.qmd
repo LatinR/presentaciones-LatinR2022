@@ -24,7 +24,7 @@ de autoría latinoamericana e internacional sobre temas como:
 
 ## Otros materiales de la conferencia
 
-El sitio web oficial de esta edición de la conferencia se encuentra en https://2022.latinr.org y en el [canal de Youtube](https://www.youtube.com/@LatinR/search?query=LatinR%202022) se encuentran todos los videos de las presentaciones de las contribuciones en estas actas, junto a los videos de los tutoriales y las disertaciones principales. 
+El sitio web oficial de esta edición de la conferencia se encuentra en https://2022.latinr.org y en el [canal de Youtube](https://www.youtube.com/@LatinR/search?query=LatinR%202022) se encuentran todos los videos de las presentaciones de las contribuciones en estas actas, junto a los videos de los tutoriales y las disertaciones. 
 
 
 ## Cita sugerida
@@ -49,4 +49,4 @@ autoras. El material se reproduce con fines de archivo y difusión científica.
 | **Publicación** | Octubre 2022 |
 | **Formato** | Libro digital (PDF) |
 | **Repositorio** | <https://github.com/LatinR/presentaciones-LatinR2022> |
-| **DOI**  | [10.XXXX/XXXXXXX](https://doi.org/10.XXXX/XXXXXXX) |
+| **DOI**  | [10.5281/zenodo.20461931](https://doi.org/10.5281/zenodo.20461931) |

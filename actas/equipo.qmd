@@ -2,12 +2,18 @@
 
 ## Chairs LatinR
 
-| Natalia da Silva | Uruguay |
-| Riva Quiroga | Chile |
-| Yanina Bellini Saibene | Argentina |
+Las Chairs de LatinR son responsables de la coordinación general de la conferencia. Entre sus tareas se encuentran la definición de la visión y los objetivos del evento, la articulación de los distintos equipos de trabajo, la toma de decisiones estratégicas y el seguimiento y ejecución de las actividades necesarias para garantizar el desarrollo exitoso de la conferencia. Asimismo, promueven los valores de colaboración, diversidad e inclusión que caracterizan a la comunidad LatinR.
+
+| Nombre | País | Institución |
+|--------|------|------|
+| Natalia da Silva | Uruguay | Universidad de La República, R-Ladies Montevideo |
+| Riva Quiroga | Chile | Universidad Católica de Chile, R-Ladies Santiago/Valparaiso |
+| Yanina Bellini Saibene | Argentina | Instituto Nacional de Tecnología Agropecuaria, R-Ladies Santa Rosa + Global |
 
 
 ## Comité Organizador
+
+El Comité Organizador acompaña la planificación y ejecución de la conferencia, colaborando en aspectos clave como la comunicación con participantes y ponentes, el mantenimiento del sitio web, la implementación y seguimiento del Código de Conducta, la gestión de los espacios virtuales de interacción y el soporte durante tutoriales, charlas y sesiones del evento. Además, impulsa y coordina actividades complementarias, como paneles y eventos satélite, que enriquecen la experiencia de la comunidad durante LatinR.
 
 | Nombre | País |
 |--------|------|
@@ -22,6 +28,8 @@
 | Felipe Osorio | Chile |
 
 ## Comité Científico
+
+La calidad académica y técnica de LatinR es posible gracias al trabajo del Comité Científico. Sus integrantes evalúan las contribuciones recibidas para la conferencia mediante un proceso de revisión por pares, en el que cada propuesta es revisada por al menos dos personas. Este proceso busca garantizar la relevancia, calidad y diversidad de los contenidos presentados, contribuyendo al intercambio de conocimientos y experiencias dentro de la comunidad de usuarios y desarrolladores de R en América Latina.
 
 | Nombre | Institución |
 |--------|------|
@@ -50,6 +58,6 @@
 |Zulemma Bazurto Blacio	| Universidad de Guayaquil |
 |Adriana Gili	| Universidad Nacional de La Pampa, Argentina |
 |Ignacio Álvarez-Castro	| Instituto de Estadística (IESTA), UDELAR|
-|Juan Cruz Rodríguez | Argentina |	
+|Juan Cruz Rodríguez | Argentina |
 
 

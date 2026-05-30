@@ -1,8 +1,10 @@
 # Contribuciones {.unnumbered}
 
-A continuación se presentan los trabajos aceptados en LatinR 2022 luego de la revisión del comité científico.
-Los resúmenes completos de cada contribución se incluyen a partir de la página siguiente,
-en el orden indicado en la tabla. 
+En esta sección se presentan las contribuciones aceptadas para LatinR 2022. Todos los trabajos incluidos en estas actas fueron evaluados mediante un proceso de revisión por pares realizado por integrantes del Comité Científico de la conferencia.
+
+Los textos aquí recopilados corresponden a las versiones finales remitidas por sus autores tras el proceso de revisión y contemplan, cuando correspondió, las modificaciones sugeridas por las personas revisoras.
+
+Los resúmenes se presentan a continuación en el orden indicado en la tabla siguiente.
 
 | N° | Título |
 |----|--------|
